@@ -22,7 +22,7 @@ Archivo: `data/sensores_industriales.csv` (100,000 mediciones, una por minuto po
 Requiere Python 3.
 
 ```bash
-git clone https://github.com/tannyg777co-lang/Examen
+git clone https://github.com/tannyg777co-lang/Examen.git
 cd Examen
 python -m venv .venv
 ```
